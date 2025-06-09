@@ -1,2 +1,3 @@
-# ci-cd-demo
-ci-cd-demo
+# main.py
+print("CI/CD процесі сәтті жұмыс істеп тұр!")
+
